@@ -17,13 +17,4 @@
 
 ## Contact Me
 
-- 📧 Email: your email
-- 💼 LinkedIn: [Your LinkedIn](link)
-- 🌐 Personal Website: [Your website](link)
-
-## Acknowledgements
-
-- 🌟 [Link to a project you contributed to]
-- 🙏 Open to collaboration and new projects!
-
-![Funny image or gif](link to image or gif)
+📱 Telegram: [Hetsu](https://t.me/permabanxdd)
