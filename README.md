@@ -12,7 +12,14 @@
 
 # ⚙️ GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetsunya&show_icons=true&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetsunya&show_icons=true&theme=radical) -->
+<details>
+  <summary>📊 Languages Used in My Repositories</summary>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+</details>
+
 
 
 
