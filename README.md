@@ -1,12 +1,12 @@
-<h2>Hey there! I'm Hetsunya</h2>
+## Hey there! I'm Hetsunya
 
-## My Skills
+# 🛠 Tech Stack
 
-- 🛠️ Databases: MySQL
-- 📱 Mobile Development: React Native
-- ![C](https://img.shields.io/badge/-C-blue)
-- ![C#](https://img.shields.io/badge/-C%23-purple)
-- ![Python](https://img.shields.io/badge/-Python-blue)
+- **C**
+- **C#**
+- **Python**
+- **Git**
+- **GitHub**
 
 ## GitHub Stats
 
