@@ -2,7 +2,7 @@
 
 # 🛠 Tech Stack
 
-**C** **C#** **Python** **Git** **GitHub**
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 # ⚙️ GitHub Analytics
 
