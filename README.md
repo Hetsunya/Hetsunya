@@ -1,4 +1,4 @@
-# Hi, I'm Hetsunya
+<h2>Hey there! I'm Hetsunya</h2>
 
 ## My Skills
 
