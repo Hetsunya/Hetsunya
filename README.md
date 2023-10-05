@@ -2,25 +2,11 @@
 
 # 🛠 Tech Stack
 
-- **C**
-- **C#**
-- **Python**
-- **Git**
-- **GitHub**
+**C** **C#** **Python** **Git** **GitHub**
 
-## GitHub Stats
+# ⚙️ GitHub Analytics
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## Projects
-
-### [Project 1: Project Name](link to project)
-
-Brief description of the project. What it does, technologies used, outcomes.
-
-### [Project 2: Project Name](link to project)
-
-Brief description of the second project. Highlight your role and achievements in the project.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## Contact Me
 
