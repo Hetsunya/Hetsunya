@@ -1,4 +1,4 @@
-## Hey there! I'm Hetsunya
+## Hey there! I'm Hetsunya and I'm trying to be a data scientist
 
 # 🛠 Tech Stack
 
