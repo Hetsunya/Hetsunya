@@ -2,7 +2,7 @@
 
 ## Hey there! I'm [Hetsunya](https://t.me/permabanxdd), diving into data science and backend development
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
-# ⚙️ GitHub Analytics
+# GitHub Analytics
 
 <table>
   <tr>
