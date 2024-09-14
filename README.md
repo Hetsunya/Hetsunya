@@ -1,8 +1,9 @@
-## Hey there! I'm Hetsunya and I'm trying to be a data scientist
+## Hey there! I'm Hetsunya and I'm trying to be a data scientist or web developer(idk lol)
 
 # 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C%20Sharp&logoColor=239120)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
