@@ -19,13 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetsunya&layout=compact&theme=radical)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hetsunya&repo=your-repo)](https://github.com/hetsunya/your-repo)
-
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hetsunya&theme=radical)
-
-
-
+![](https://komarev.com/ghpvc/?username=hetsunya&color=blue&style=flat)
 
 ## Contact Me
 
