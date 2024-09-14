@@ -15,18 +15,30 @@
 
 # ⚙️ GitHub Analytics
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetsunya&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetsunya&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetsunya&theme=transparent	" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hetsunya&theme=transparent	" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetsunya&theme=transparent	" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hetsunya&theme=transparent	" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hetsunya&theme=transparent	" />
+    </td>
+  </tr>
+</table>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetsunya&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hetsunya&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetsunya&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hetsunya&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hetsunya&theme=solarized_dark)
 
 
 ## Contact Me
