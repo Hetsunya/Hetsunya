@@ -1,7 +1,7 @@
-## Hey there! I'm Hetsunya and I'm trying to be a data scientist or web developer(idk lol)
+## Hey there! I'm Hetsunya, diving into data science and backend development
 
 # 🛠 Tech Stack
-
+### Languages
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
