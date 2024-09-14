@@ -9,6 +9,11 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
+### Tools
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+
+
 # ⚙️ GitHub Analytics
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetsunya&show_icons=true&theme=radical) -->
