@@ -1,6 +1,7 @@
 ## Hey there! I'm Hetsunya, diving into data science and backend development
 
-# 🛠 Tech Stack
+## 🛠 **Tech Stack**
+
 ### Languages
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
