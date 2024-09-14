@@ -1,6 +1,6 @@
 ## Hey there! I'm Hetsunya, diving into data science and backend development
 
-## 🛠 **Tech Stack**
+# 🛠 Tech Stack
 
 ### Languages
 
