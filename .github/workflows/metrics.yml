@@ -13,5 +13,7 @@ jobs:
           filename: metrics.plugin.leetcode.svg
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_sections: stats,solved,skills
           plugin_leetcode_user: Hetsunya
+          plugin_leetcode_sections: stats,solved,skills
+          plugin_leetcode_session: ${{ secrets.LEETCODE_SESSION }}
+          plugin_leetcode_csrf_token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
