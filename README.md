@@ -32,5 +32,6 @@
   </table>
 
   <h3>LeetCode Stats 🧠</h3>
-  <img src="https://metrics.lecoq.io/hetsunya?template=classic&leetcode=1&leetcode.sections=stats,solved,skills&leetcode.limit=5" />
+  <img src="metrics.plugin.leetcode.svg" />
 </div>
+
