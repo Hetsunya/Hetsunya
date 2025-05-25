@@ -27,7 +27,8 @@
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetsunya&theme=transparent&exclude=jupyter%20notebook" /></td>
     </tr>
     <tr>
-      <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=hetsunya&theme=flat&no-frame=true" /></td>
+      <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=hetsunya&theme=discord&no-frame=true" />
+</td>
     </tr>
   </table>
 
