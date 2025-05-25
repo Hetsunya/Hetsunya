@@ -3,7 +3,9 @@
   <p>Diving into data science and backend development 🧑‍💻</p>
 
   <h3>About Me</h3>
-  <p>My real name is Vitaliy! I'm passionate about exploring Go and backend development. I speak two languages: Russian and English. Feel free to reach out to me at <a href="mailto:vitaliy.demyantsev@mail.ru">vitaliy.demyantsev@mail.ru</a>! 📧</p>
+<p>My real name is Vitaliy! I'm passionate about exploring Go and backend development. I speak two languages: Russian and English. Feel free to reach out to me at <a href="mailto:vitaliy.demyantsev@mail.ru">vitaliy.demyantsev@mail.ru</a>! 📧<br>
+Also, you can find me on <a href="https://discordapp.com/users/377311167841959938" target="_blank" rel="noopener noreferrer">Discord 🟣</a></p>
+
 
   <h3>Tech Stack</h3>
   <div>
