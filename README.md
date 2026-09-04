@@ -1,70 +1,55 @@
-# 💻 Hetsunya  
-### Data Science • Backend • Distributed Systems
+# 👋 Hi, I'm Vitaliy (Hetsunya)
 
 <div align="center">
-  <a href="https://t.me/permabanxdd">Telegram</a> • 
-  <a href="https://discordapp.com/users/377311167841959938">Discord</a>
+  <a href="https://t.me/permabanxdd">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:your_email@example.com"> <!-- Замени на свою реальную почту -->
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
-## ✨ About Me
+<br>
 
-Hi, I'm **Vitaliy** — a backend developer and data science enthusiast.  
-I explore distributed systems, high-performance backend architectures, and modern backend tooling.
+## 🚀 About Me
+I am a Backend Developer with a strong academic background in Intelligent Systems. I enjoy building scalable microservices, optimizing database interactions, and bridging the gap between traditional software engineering and machine learning.
 
-- Building microservices and backend applications  
-- Interested in systems programming (C/C++, memory, performance)  
-- Writing APIs, Telegram bots, and data processing pipelines  
-- Fluent in **Russian** and **English**
+- 💼 Currently focused on: **Go, microservices architecture, and high-performance APIs**.
+- 🧠 Deep interest in: **Systems programming (C/C++), memory management, and distributed systems**.
+- 🎓 Recent milestone: Designed and built a **real-time meeting service with emotion recognition** (Neural Networks + Backend integration) for my graduation project.
+- 🌍 Languages: **Russian** (Native), **English** (B2).
 
 ## 🛠 Tech Stack
 
-### **Languages**
+### **Core Languages**
 <div>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
 </div>
 
-### **Tools**
+### **Backend & Infrastructure**
 <div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC">
 </div>
 
+### **Secondary & Tooling**
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+</div>
 
-## 📊 GitHub Analytics
-
+## 🧠 LeetCode & Algorithms
 <div align="center">
-
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetsunya&theme=transparent" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hetsunya&theme=transparent&exclude=jupyter%20notebook" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetsunya&theme=transparent&exclude=jupyter%20notebook" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=hetsunya&theme=discord&no-frame=true" />
-    </td>
-  </tr>
-</table>
-
+  <img src="metrics.plugin.leetcode.svg" alt="LeetCode Stats" />
+  <br>
 </div>
 
-
-## 🧠 LeetCode
-
-<div align="center">
-  <img src="metrics.plugin.leetcode.svg" />
-</div>
-
+<br>
