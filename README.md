@@ -4,7 +4,7 @@
   <a href="https://t.me/permabanxdd">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:your_email@example.com"> <!-- Замени на свою реальную почту -->
+  <a href="mailto:vitalick1133@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
